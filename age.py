@@ -1,4 +1,4 @@
-#This programm will calculate the age by taking the vakue from user
+#This programm will calculate the age by taking the age from user
 from datetime import datetime
 
 Year_of_birth=int(input("Enter Year :"))
