@@ -23,7 +23,7 @@ Required Libraries (e.g. numpy, pandas, matplotlib, scikit-learn, tensorflow, et
 Clone the repository
 bash
 Copy code
-git clone https://github.com/YOUR-USERNAME/Data-Science-with-Python.git
+git clone https://github.com/himanshu0072/Data-Science-with-Python.git
 Navigate to the cloned repository
 python
 Copy code
